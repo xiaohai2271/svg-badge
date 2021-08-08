@@ -1,0 +1,17 @@
+{
+  "name": "svgbadge",
+  "version": "1.0.0",
+  "description": "create svg badge online ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "禾几海",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
